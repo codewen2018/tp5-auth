@@ -3,7 +3,7 @@
     "description": "auth package for thinkphp5",
     "homepage": "https://github.com/80h4ck/tp5-auth",
     "license": "Apache-2.0",
-    "minimum-stability": "v1.0.0",
+    "minimum-stability": "stable",
     "version": "v1.0.0",
     "authors": [
         {

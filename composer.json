@@ -1,0 +1,25 @@
+{
+    "name": "80h4ck/tp5-auth",
+    "description": "auth package for thinkphp5",
+    "homepage": "https://github.com/80h4ck/tp5-auth",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "80h4ck",
+            "email": "80h4ck@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/80h4ck/tp5-auth/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\auth\\": ""
+        }
+    }
+}
